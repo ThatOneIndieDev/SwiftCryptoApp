@@ -2,6 +2,9 @@
 
 SwiftCryptoApp is a SwiftUI-based cryptocurrency tracking app that follows the MVVM architecture. It leverages Combine for reactive programming, Core Data for local persistence, and the CoinGecko API to fetch real-time cryptocurrency data.
 
+![Demo 1](Assets/CRYPTOAPP%20DEMOS/SCREEN1.gif)
+
+
 ## Features
 
 📈 Real-time cryptocurrency prices (via CoinGecko API)
