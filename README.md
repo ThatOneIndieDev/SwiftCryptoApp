@@ -42,6 +42,9 @@ Add and manage your favorite cryptocurrencies.
 ### Settings:
 Customize the app's preferences.
 
+![Demo 1](Assets/CRYPTOAPP%20DEMOS/SCREEN2.gif)
+
+
 ## Architecture
 
 ### SwiftCryptoApp follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean and maintainable code structure.
@@ -61,6 +64,9 @@ Combine: For reactive data binding
 Core Data: For local storage
 
 CoinGecko API: To fetch cryptocurrency data
+
+![Demo 1](Assets/CRYPTOAPP%20DEMOS/SCREEN3.gif)
+
 
 ## API Configuration
 
