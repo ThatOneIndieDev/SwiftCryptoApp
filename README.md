@@ -1,8 +1,8 @@
-SwiftCryptoApp
+# SwiftCryptoApp
 
 SwiftCryptoApp is a SwiftUI-based cryptocurrency tracking app that follows the MVVM architecture. It leverages Combine for reactive programming, Core Data for local persistence, and the CoinGecko API to fetch real-time cryptocurrency data.
 
-Features
+## Features
 
 📈 Real-time cryptocurrency prices (via CoinGecko API)
 
@@ -14,31 +14,34 @@ Features
 
 🌙 Dark mode support
 
-Installation
+## Installation
 
-Clone the repository:
+### Clone the repository:
 
-git clone https://github.com/your-repo/SwiftCryptoApp.git
+1. git clone https://github.com/your-repo/SwiftCryptoApp.git
 
-Open SwiftCryptoApp.xcodeproj in Xcode.
+2. Open SwiftCryptoApp.xcodeproj in Xcode.
 
-Ensure you have Xcode 15+ installed.
+3. Ensure you have Xcode 15+ installed.
 
-Install dependencies (if any) using Swift Package Manager.
+4. Install dependencies (if any) using Swift Package Manager.
 
-Run the project on a simulator or real device.
+5. Run the project on a simulator or real device.
 
-Usage
+## Usage
 
-Home Screen: View the latest crypto prices and market trends.
+### Home Screen:
+View the latest crypto prices and market trends.
 
-Portfolio: Add and manage your favorite cryptocurrencies.
+### Portfolio:
+Add and manage your favorite cryptocurrencies.
 
-Settings: Customize the app's preferences.
+### Settings:
+Customize the app's preferences.
 
-Architecture
+## Architecture
 
-SwiftCryptoApp follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean and maintainable code structure.
+### SwiftCryptoApp follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean and maintainable code structure.
 
 Model: Defines the data structure (e.g., CoinModel.swift)
 
@@ -46,7 +49,7 @@ ViewModel: Handles business logic and API calls (e.g., HomeViewModel.swift)
 
 View: Displays UI components (e.g., HomeView.swift)
 
-Dependencies
+## Dependencies
 
 SwiftUI: For UI design
 
@@ -56,18 +59,21 @@ Core Data: For local storage
 
 CoinGecko API: To fetch cryptocurrency data
 
-API Configuration
+## API Configuration
 
 Obtain an API key from CoinGecko
 
 Add it to Secrets.plist in the project
 
-Contribution
+## Contribution
 
 Feel free to fork this repository, submit issues, or open pull requests.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-🚀 Happy Coding! 🎉
+## AI IMPLEMENTATION:
+Coming soon...
+
+# 🚀 Happy Coding! 🎉
