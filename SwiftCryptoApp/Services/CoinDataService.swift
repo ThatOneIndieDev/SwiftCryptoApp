@@ -7,7 +7,6 @@
 
 // So in this file we will get data from the coin gecko API and then decode the data from the JSON decoder then finally we can append the data if it is valid or throw an error. The following file also uses the concept of a publisher and a subsciber using the Combine library.
 
-// API key: CG-KAV5aBihV5bJJ65hmXEyTwRw
 
 import Foundation
 import Combine
